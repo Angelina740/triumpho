@@ -136,7 +136,17 @@ h1 {
 	margin-left: 60px;
 }
 
-#services {
+.services {
 	padding-bottom: 120px;
 }
 
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 70px;
+}
