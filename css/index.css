@@ -109,6 +109,7 @@ h1 {
 
 .services {
 	margin-top: 80px;
+    
 }
 
 .services__item	{
@@ -136,7 +137,7 @@ h1 {
 	margin-left: 60px;
 }
 
-.services {
+#portfolio {
 	padding-bottom: 120px;
 }
 
@@ -149,4 +150,5 @@ footer {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 70px;
+    color: #fff;
 }
